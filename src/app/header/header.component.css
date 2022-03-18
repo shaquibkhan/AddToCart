@@ -1,0 +1,26 @@
+/* .fas{
+    font-size: 35px;
+    
+} */
+
+/* .sticky{
+    position: sticky;
+    top: 0px;
+} */
+strong{
+    color:aliceblue;
+}
+.search-icon{
+    position:absolute;
+    top:35%;
+    z-index: 10;
+    right:53%;
+    font-size: 21px;
+    color:blue;
+
+}
+.form-control{
+    border-radius: 3px;
+    width:600px;
+    margin-left:20px;
+}
